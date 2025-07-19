@@ -20,7 +20,7 @@ else
     Console.WriteLine("Desculpe, não temos a quantidade desejada em estoque. ");
 }
 
-//IF e ELSE curtos
+//IF e ELSE ternários
 //variável = (condição) ? ValorVerdadeiro :  ValorFalso;
 
 int hora = 20;
