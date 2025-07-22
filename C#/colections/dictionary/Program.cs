@@ -33,12 +33,12 @@ estados["SP"] = "São Bento";
 Console.WriteLine($" {estados.Remove("AC")}");
 
 
-//Pesquindo valores em um dicionário
+//Pesquisando valores em um dicionário
 
 Console.WriteLine($"Estado: {estados.ContainsValue("Minas Gerais")}");
 
 
-//Pesquindo chaves em um dicionário
+//Pesquisando chaves em um dicionário
 
 Console.WriteLine($"Sigla: {estados.ContainsKey("MG")}");
 
